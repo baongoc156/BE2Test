@@ -1,0 +1,10 @@
+{
+    "name": "ngoc/test",
+    "authors": [
+        {
+            "name": "webcms",
+            "email": "phbaongoc2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
